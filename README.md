@@ -98,7 +98,7 @@ Open index.html using live server extension.
 
 ## 👥 Authors <a name="getting-started"></a>
 👤 Misikir Abate Teka <br>
-Full stack developers with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.
+Full stack developers building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.
 <h2 id="contact">📞 Contact</h2>
 Contact 📞
 If you have any inquiries, suggestions, or feedback, please feel free to contact us. You can reach out to us via:
