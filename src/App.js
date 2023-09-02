@@ -7,7 +7,7 @@ import CategoryPage from './components/route/categories';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar />
       <section>
         <Routes>
           <Route path="/" element={<BookPage />} />
