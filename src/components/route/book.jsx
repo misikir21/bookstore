@@ -1,4 +1,4 @@
-const Book = ({ title, author }) => {
+const book = ({ title, author }) => {
     return (
       <li>
         
@@ -8,3 +8,4 @@ const Book = ({ title, author }) => {
       </li>
     );
   };
+  export default book;
