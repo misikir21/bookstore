@@ -12,7 +12,6 @@ function App() {
         <Routes>
           <Route path="/" element={<BookPage />} />
           <Route path="/categories" element={<CategoryPage />} />
-          <Route path="/book" element={<book/>} />
         </Routes>
       </section>
     </div>
