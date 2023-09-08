@@ -13,7 +13,7 @@ function App() {
           <Route path="/" element={<BookPage />} />
           <Route path="/categories" element={<CategoryPage />} />
         </Routes>
-    </section>
+      </section>
     </div>
   );
 }
