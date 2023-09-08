@@ -7,14 +7,14 @@ import CategoryPage from './components/route/categories.js';
 function App() {
   return (
     <div className="App">
-    <Navbar />
-      <section>
-        <Routes>
+      <Navbar />
+       <section>
+             <Routes>
     <Route path="/" element={<BookPage />} />
     <Route path="/categories" element={<CategoryPage />} />
   </Routes>
-      </section>
-  </div>
+        </section>
+    </div>
   );
 }
 export default App;
