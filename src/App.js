@@ -8,12 +8,12 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-    <section>
-          <Routes>
-    <Route path="/" element={<BookPage />} />
-           <Route path="/categories" element={<CategoryPage />} />
+      <section>
+  <Routes>
+            <Route path="/" element={<BookPage />} />
+            <Route path="/categories" element={<CategoryPage />} />
           </Routes>
-        </section>
+    </section>
     </div>
   );
 }
