@@ -6,15 +6,15 @@ import CategoryPage from './components/route/categories.js';
 
 function App() {
   return (
-  <div className="App">
-  <Navbar />
-<section>
+    <div className="App">
+    <Navbar />
+     <section>
   <Routes>
-  <Route path="/" element={<BookPage />} />
-  <Route path="/categories" element={<CategoryPage />} />
+    <Route path="/" element={<BookPage />} />
+    <Route path="/categories" element={<CategoryPage />} />
   </Routes>
-  </section>
+</section>
   </div>
-);
+  );
 }
 export default App;
