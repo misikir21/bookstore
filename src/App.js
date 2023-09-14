@@ -1,11 +1,7 @@
 import './App.css';
-
 import { Route, Routes } from 'react-router-dom';
-
 import Navbar from './components/navbar';
-
 import BookPage from './components/route/books';
-
 import CategoryPage from './components/route/categories';
 
 function App() {
