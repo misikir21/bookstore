@@ -1,4 +1,5 @@
 # Bookstore-react
+
 This simple Bookstore-react application is built with JavaScript, HTML, and CSS and React JS . It a complete bookstore UI .
 
 # 📗 Table of Contents
@@ -20,15 +21,12 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 - [🤝 Contributing](#contributing)
 
 - [⭐️ Show your support](#support)
- 
+
 - [🙏 Acknowledgements](#acknowledgements)
 
 - [📝 License](#license)
 
-
 ## 🛠 Built With <a name="built-with"></a>
-
-
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -48,7 +46,7 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 
 ### Key Features <a name="key-features"></a>
 
--  full Bookstore-react website UI built with ReactJS
+- full Bookstore-react website UI built with ReactJS
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -66,12 +64,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-Run this command: 
+Run this command:
 
 ```sh
  cd my-folder
 
 ```
+
 ### Install
 
 Install this project with:
@@ -82,6 +81,7 @@ Run this command:
  cd my-folder
  npm install
 ```
+
 ### Usage
 
 To run the project, execute the following command:
@@ -93,8 +93,10 @@ Open index.html using live server extension.
 > Coming soon
 
 ## 👥 Authors <a name="getting-started"></a>
+
 👤 Misikir Abate Teka <br>
 Full stack developers building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.
+
 <h2 id="contact">📞 Contact</h2>
 Contact 📞
 If you have any inquiries, suggestions, or feedback, please feel free to contact us. You can reach out to us via:
@@ -105,8 +107,8 @@ If you have any inquiries, suggestions, or feedback, please feel free to contact
 - [Github](https://github.com/misikir21)
 - [linkedin](https://www.linkedin.com/in/misikir-teka/)
 
-
 ## 🔭 Future Features <a name="future-features"></a>
+
 - [ ] A complete website with navigation
 - [ ] Add more styles to make it more awesome
 
@@ -133,4 +135,3 @@ I would like to thank Microverse
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
