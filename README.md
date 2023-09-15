@@ -4,10 +4,11 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+-[📖 About the Project](#about-project)
+
+- [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -27,6 +28,7 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 - [📝 License](#license)
 
 ## 🛠 Built With <a name="built-with"></a>
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -116,7 +118,7 @@ If you have any inquiries, suggestions, or feedback, please feel free to contact
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/misikir21/bookstore/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
