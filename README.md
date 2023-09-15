@@ -12,7 +12,6 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 
 - [🔭 Future Features](#future-features)
@@ -92,9 +91,7 @@ To run the project, execute the following command:
 
 Open index.html using live server extension.
 
-### Deployment
 
-> Coming soon
 
 ## 👥 Authors <a name="getting-started"></a>
 👤 Misikir Abate Teka <br>
