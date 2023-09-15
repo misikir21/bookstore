@@ -29,10 +29,6 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML
-- CSS
-- JavaScript
-- React-js
 
 ### Tech Stack <a name="tech-stack"></a>
 
