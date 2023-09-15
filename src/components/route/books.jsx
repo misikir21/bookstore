@@ -6,10 +6,10 @@ import '../css/bookStyle.css';
 
 const BookPage = () => {
   const [bookInfo, setBookInfo] = useState([{
-    id: uuidv4(), title: 'Introduction to c++', author: 'Ali',
+    id: uuidv4(), title: 'crazy stupid love', author: 'misikir',
   },
   {
-    id: uuidv4(), title: 'Introduction to JavaScript', author: 'Foga',
+    id: uuidv4(), title: 'the theory of everthing', author: 'darwin',
   },
   ]);
 
