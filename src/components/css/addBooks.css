@@ -67,3 +67,20 @@
   font-weight: bold;
   border-radius: 3px;
 }
+
+.add {
+  color: white;
+  background-color: #0291ff;
+  border: hidden;
+  width: 9rem;
+  height: 4rem;
+}
+
+.book-title {
+  width: 50%;
+  text-align: center;
+}
+
+.book-form {
+
+}

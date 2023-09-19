@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import '../css/bookStyle.css';
+import '../css/addBooks.css';
 
 const BookForm = ({ addBook }) => {
   const [title, setTitle] = useState('');
@@ -22,7 +23,7 @@ const BookForm = ({ addBook }) => {
       <form onSubmit={handleSubmit}>
         <input type="text" className="book-title" placeholder="Book title" value={title} onChange={(e) => setTitle(e.target.value)} />
         <input type="text" placeholder="Book author" className="book-author" value={author} onChange={(e) => setAuthor(e.target.value)} />
-        <button type="submit">Add Book</button>
+        <button type="submit" className="add">Add Book</button>
       </form>
     </div>
 

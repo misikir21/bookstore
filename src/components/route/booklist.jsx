@@ -10,7 +10,7 @@ const BookList = (prop) => {
         Author:
         {book.author}
       </p>
-      <button type="button" onClick={() => deleteBook(book.id)}>Remove</button>
+      <button className="remove" type="button" onClick={() => deleteBook(book.id)}>Remove</button>
     </li>
   );
 };

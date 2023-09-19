@@ -36,3 +36,11 @@
   justify-content: center;
   gap: 20px;
 }
+
+.remove {
+  color: white;
+  background-color: #0291ff;
+  border: hidden;
+  width: 9rem;
+  height: 4rem;
+}
