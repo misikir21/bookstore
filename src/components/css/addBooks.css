@@ -67,16 +67,3 @@
   font-weight: bold;
   border-radius: 3px;
 }
-
-.add {
-  color: white;
-  background-color: #0291ff;
-  border: hidden;
-  width: 8rem;
-  height: 2rem;
-}
-
-.book-title {
-  width: 50%;
-  text-align: center;
-}
