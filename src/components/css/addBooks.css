@@ -72,15 +72,11 @@
   color: white;
   background-color: #0291ff;
   border: hidden;
-  width: 9rem;
-  height: 4rem;
+  width: 8rem;
+  height: 2rem;
 }
 
 .book-title {
   width: 50%;
   text-align: center;
-}
-
-.book-form {
-
 }
