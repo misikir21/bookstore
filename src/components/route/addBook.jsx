@@ -35,7 +35,12 @@ const AddBook = () => {
             <input value={title} type="text" id="title" placeholder="Book Title Here..." onChange={(e) => setTitle(e.target.value)} />
           </div>
           <div className="input-container">
-            <input value={author} type="text" id="name" placeholder="Author Name Here..." onChange={(e) => setAuthor(e.target.value)} />
+            <select name="Autors" className="autors">
+              <input value={author} type="text" id="name" onChange={(e) => setAuthor(e.target.value)} />
+              <option value="william">Categorie</option>
+              <option value="Agatha">Categorie</option>
+              <option value="Chinua">Categorie</option>
+            </select>
           </div>
           <div className="input-container">
             <button type="button" value="AddNew" onClick={handleSubmit}> ADD BOOK </button>

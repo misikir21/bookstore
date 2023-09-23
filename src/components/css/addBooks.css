@@ -67,3 +67,11 @@
   font-weight: bold;
   border-radius: 3px;
 }
+
+.autors {
+  border: 1px solid lightgray;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  text-align: center;
+}
