@@ -37,9 +37,7 @@ const AddBook = () => {
           <div className="input-container">
             <select name="Autors" className="autors">
               <input value={author} type="text" id="name" onChange={(e) => setAuthor(e.target.value)} />
-              <option value="william">Categorie</option>
-              <option value="Agatha">Categorie</option>
-              <option value="Chinua">Categorie</option>
+              <option value="william">Author Name Here...</option>
             </select>
           </div>
           <div className="input-container">
