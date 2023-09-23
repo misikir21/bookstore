@@ -1,5 +1,6 @@
 import { Link, useMatch, useResolvedPath } from 'react-router-dom';
 import './css/style.css';
+import { FaUser } from 'react-icons/fa';
 
 const CustomLink = (prop) => {
   const { to, children } = prop;
@@ -16,13 +17,16 @@ const Navbar = () => (
   <nav className="nav">
     <div className="nav-title">
       <h1 className="site-title">Bookstroe CMS</h1>
+      <image className="user">
+        <span><FaUser /></span>
+      </image>
       <ul>
         <CustomLink to="/">BOOKS</CustomLink>
         <CustomLink to="/categories">CATEGORIES</CustomLink>
       </ul>
     </div>
-    <div>
-      <h3>Logo</h3>
+    <div className="wapper-icon">
+      <i className="uil uil-user-circle" />
     </div>
   </nav>
 );
