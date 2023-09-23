@@ -61,9 +61,10 @@ body {
   color: #0291ff;
   font-size: 30px;
 }
+
 .user {
   color: #0291ff;
   position: relative;
   top: 2.5rem;
-  left: 55rem; 
+  left: 55rem;
 }
