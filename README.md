@@ -1,4 +1,4 @@
-# Bookstore-react
+#  Space-Traveller
 This is a website for space travel enthusiasts. the data is fetched from accurate live data from the SpaceX API. This web application is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. This application is built with JavaScript, HTML, CSS and React JS. 
 
 # 📗 Table of Contents
