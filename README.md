@@ -1,3 +1,4 @@
+![download](https://github.com/misikir21/React-Capstone/assets/41914268/7f93b39c-da6f-429a-b32d-a8f723de8d42)
 #  Space-Traveller
 This is a website for space travel enthusiasts. the data is fetched from accurate live data from the SpaceX API. This web application is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. This application is built with JavaScript, HTML, CSS and React JS. 
 
