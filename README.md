@@ -1,5 +1,5 @@
 # Bookstore-react
-This simple Bookstore-react application is built with JavaScript, HTML, and CSS and React JS . It a complete bookstore UI .
+This is a website for space travel enthusiasts. the data is fetched from accurate live data from the SpaceX API. This web application is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. This application is built with JavaScript, HTML, CSS and React JS. 
 
 # 📗 Table of Contents
 
@@ -51,7 +51,12 @@ This simple Bookstore-react application is built with JavaScript, HTML, and CSS 
 
 ### Key Features <a name="key-features"></a>
 
--  full Bookstore-react website UI built with ReactJS
+-  Allow space travellers to book for rocket 📚
+-  Show the status of booked travel 📚✈️
+-  Booker profile 👤  
+-  Available mission page 📄
+-  Rockets section displays a list of all available SpaceX rockets 🚀
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -119,7 +124,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project just give it a star ⭐️ .
+If you like this project just give it a star ⭐️.
 
 Everybody is welcome to suggest changes in the Bookstore project.
 
